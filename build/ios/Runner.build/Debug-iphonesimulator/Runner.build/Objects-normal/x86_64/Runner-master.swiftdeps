@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "f6734e6d98a6e0806012a268c56169d2"
+build_time: [1619906586, 310777000]
+inputs:
+  "/Users/dominik/Documents/bakersoft/contactlist/ios/Runner/AppDelegate.swift": [1619878250, 384001125]

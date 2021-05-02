@@ -1,0 +1,4 @@
+#Fri Apr 23 22:41:47 CEST 2021
+base.0=/Users/dominik/Documents/bakersoft/contactlist/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
